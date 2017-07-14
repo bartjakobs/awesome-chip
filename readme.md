@@ -52,6 +52,8 @@ Items specific to PocketCHIP
 - [Sensors](https://bbs.nextthing.co/t/walkthrough-for-beginners-adafruit-sensors-chip-gpio/8725) (For beginners)
 - [Adding real time clock](https://bbs.nextthing.co/t/video-tutorial-adding-a-real-time-clock-to-chip/8081)
 - [MachineKit](http://machinekoder.com/machinekit-on-the-c-h-i-p-9-computer/) Machine control software
+- [Chip does CRM](https://bbs.nextthing.co/t/the-chip-does-crm-tutorial/)
+- [Install Guacamole Server](https://bbs.nextthing.co/t/chips-and-guacamole-server-tutorial/)
 
 
 ## Other
