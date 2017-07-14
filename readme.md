@@ -5,12 +5,12 @@
 
 ## Contents
 
-- [PocketCHIP](#pocketc-h-i-p)
+- [PocketCHIP](#pocketchip)
 - [Games](#games)
 - [Music](#music)
 - [Emulators](#emulators)
 - [Tutorials](#tutorials)
-
+- [Other](#other)
 
 ## PocketCHIP
 
