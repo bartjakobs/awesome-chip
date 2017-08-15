@@ -37,6 +37,8 @@ Items specific to PocketCHIP
 - [Phase](http://humbletune.com/phase/) phase distortion synthesizer
 - [Spotify](https://bbs.nextthing.co/t/howto-spotify-on-chip/) With UI
 - [Spotify Connect](https://bbs.nextthing.co/t/howto-chip-or-chip-pro-as-spotify-connect-radio/)
+- [AirPlay Server](https://bbs.nextthing.co/t/chip-airplay-server-how-to-install-and-configure-shairport-sync)
+- [Bluetooth Audio](https://bbs.nextthing.co/t/basic-guide-to-turning-chip-into-a-bluetooth-audio-receiver-audio-sink/2187)
 - [Picoloop](https://bbs.nextthing.co/t/picoloop-music-stepsequencer-for-your-pocketchip/9131) Step sequencer
 
 ## Emulators
@@ -58,6 +60,7 @@ Items specific to PocketCHIP
 
 ## Other
 - [OwnCloud](https://bbs.nextthing.co/t/chip-does-owncloud-now-with-pocketchip-web-client-tutorial/) CHIP does cloud things
+- [Cloud Platform](https://bbs.nextthing.co/t/new-cloud-platform-for-c-h-i-p/) for monitoring
 
 
 ## Contribute
