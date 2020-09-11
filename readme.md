@@ -18,18 +18,18 @@ Items specific to PocketCHIP
 
 - [Pocket Installer](https://github.com/IkerGarcia/PocketInstaller) Install all the things!
 - [Pocket Home](https://github.com/o-marshmallow/PocketCHIP-pocket-home)
-- [Desktop on PocketCHIP](https://bbs.nextthing.co/t/desktop-on-pocketchip-xfce4-debian-stretch-kali-repo-right-click----/10223)
+- [Desktop on PocketCHIP](https://web.archive.org/web/20180918223720/https://bbs.nextthing.co/t/desktop-on-pocketchip-xfce4-debian-stretch-kali-repo-right-click----/10223)
 - [Pidgin](https://bbs.nextthing.co/t/how-to-chat-on-pocketchip-using-pidgin-chat-client-brief-tutorial/) Chat client (Facebook / Google Hangouts)
 - [PocketChat](https://github.com/Groguard/PocketChat) IRC client
 
 
 ## Games
 
-- [Minecraft](https://github.com/NextThingCo/chipcraft)
+- [Minecraft](https://github.com/project-chip-crumbs/chipcraft)
 - [Brogue](https://github.com/AnthonyDiGirolamo/brogue-pocketchip)
-- [Open RCT](https://bbs.nextthing.co/t/openrct2-on-pocketchip/9950) Rollercoaster Tycoon
+- [Open RCT](https://web.archive.org/web/20180918185632/https://bbs.nextthing.co/t/openrct2-on-pocketchip/9950) Rollercoaster Tycoon
 - [Quake2](https://bbs.nextthing.co/t/quake2-on-the-pocketc-h-i-p)
-- [More games](https://bbs.nextthing.co/t/doomrl-p-r-i-m-e-pocketc-h-i-p-the-roguelike-machine/8027) On the ntc forum
+- [More games](https://web.archive.org/web/20180918223221/https://bbs.nextthing.co/t/doomrl-p-r-i-m-e-pocketc-h-i-p-the-roguelike-machine/8027) On the ntc forum
 
 ## Music
 
@@ -38,21 +38,21 @@ Items specific to PocketCHIP
 - [Spotify](https://bbs.nextthing.co/t/howto-spotify-on-chip/) With UI
 - [Spotify Connect](https://bbs.nextthing.co/t/howto-chip-or-chip-pro-as-spotify-connect-radio/)
 - [AirPlay Server](https://bbs.nextthing.co/t/chip-airplay-server-how-to-install-and-configure-shairport-sync)
-- [Bluetooth Audio](https://bbs.nextthing.co/t/basic-guide-to-turning-chip-into-a-bluetooth-audio-receiver-audio-sink/2187)
-- [Picoloop](https://bbs.nextthing.co/t/picoloop-music-stepsequencer-for-your-pocketchip/9131) Step sequencer
+- [Bluetooth Audio](https://web.archive.org/web/20180918195841/https://bbs.nextthing.co/t/basic-guide-to-turning-chip-into-a-bluetooth-audio-receiver-audio-sink/2187)
+- [Picoloop](https://web.archive.org/web/20180919022909/https://bbs.nextthing.co/t/picoloop-music-stepsequencer-for-your-pocketchip/9131) Step sequencer
 
 ## Emulators
 
-- [SNES](https://bbs.nextthing.co/t/fast-snes-emulation-on-the-pocketc-h-i-p/9325)
-- [Playstation](http://blog.nextthing.co/community-project-emulate-the-playstation-on-your-pocketc-h-i-p/)
-- [Dreamcast](https://bbs.nextthing.co/t/dreamcast-emulation-updated/11456)
+- [SNES](https://web.archive.org/web/20180918210851/https://bbs.nextthing.co/t/fast-snes-emulation-on-the-pocketc-h-i-p/9325)
+- [Playstation](https://web.archive.org/web/20180423064834/http://blog.nextthing.co/community-project-emulate-the-playstation-on-your-pocketc-h-i-p/)
+- [Dreamcast](https://web.archive.org/web/20180918235654/https://bbs.nextthing.co/t/dreamcast-emulation-updated/11456)
 - [ZEsarUX](https://bbs.nextthing.co/t/tutorial-zesarux-8-bit-computer-emulator/)
-- [Gameboy Advance](https://bbs.nextthing.co/t/full-speed-game-boy-advance-emulator/10834)
+- [Gameboy Advance](https://web.archive.org/web/20180919023527/https://bbs.nextthing.co/t/full-speed-game-boy-advance-emulator/10834)
 
 ## Tutorials
 
-- [Sensors](https://bbs.nextthing.co/t/walkthrough-for-beginners-adafruit-sensors-chip-gpio/8725) (For beginners)
-- [Adding real time clock](https://bbs.nextthing.co/t/video-tutorial-adding-a-real-time-clock-to-chip/8081)
+- [Sensors](https://web.archive.org/web/20180918211943/https://bbs.nextthing.co/t/walkthrough-for-beginners-adafruit-sensors-chip-gpio/8725) (For beginners)
+- [Adding real time clock](https://web.archive.org/web/20180918204509/https://bbs.nextthing.co/t/video-tutorial-adding-a-real-time-clock-to-chip/8081)
 - [MachineKit](http://machinekoder.com/machinekit-on-the-c-h-i-p-9-computer/) Machine control software
 - [Chip does CRM](https://bbs.nextthing.co/t/the-chip-does-crm-tutorial/)
 - [Install Guacamole Server](https://bbs.nextthing.co/t/chips-and-guacamole-server-tutorial/)
